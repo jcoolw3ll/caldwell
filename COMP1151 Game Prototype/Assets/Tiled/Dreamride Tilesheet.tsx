@@ -19,6 +19,19 @@
  <tile id="795">
   <objectgroup draworder="index" id="2">
    <object id="1" x="0" y="0" width="2.18182" height="16"/>
+   <object id="2" x="0" y="0" width="2.18182" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="829">
+  <objectgroup draworder="index" id="3">
+   <object id="5" x="6.09091" y="24"/>
+   <object id="6" x="-8" y="4"/>
+  </objectgroup>
+ </tile>
+ <tile id="830">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="-1.77636e-15" y="13.9091" width="16" height="2.09091"/>
+   <object id="2" x="24" y="3.63636"/>
   </objectgroup>
  </tile>
  <tile id="972">
